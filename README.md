@@ -48,15 +48,3 @@ Browse everything: https://dexarea.com/solana
 
 ---
 
-## 🧰 Tech Stack
-
-- Next.js 13 (App Router), React 18, TypeScript, Tailwind CSS, shadcn/Radix UI, Framer Motion
-- State: Zustand · Forms/Validation: React Hook Form + Zod
-- Solana: @solana/web3.js, @solana/spl-token, Metaplex Token Metadata
-- DEX: @raydium-io/raydium-sdk (AMM/CPMM pool helpers)
-- Content: MDX blog/partials
-- Misc: Pinata (IPFS), Crisp
-
----
-
-## 📦 Project Structure (high-level)
