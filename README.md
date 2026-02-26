@@ -71,4 +71,4 @@ Browse everything: [https://dexarea.com/solana](https://dexarea.com/solana)
 
 ## 🖼️ Screenshot
 
-[![Screenshot](https://github.com/dexarea/about/blob/f2d79aee17f1e403f63865cdb356fec10aced4e1/TxsmudBwCa.png?raw=true)](https://dexarea.com)
+[![Screenshot](https://github.com/dexarea/about/blob/76080a2e196bfb8ba3830cba685127285c64cab9/TxsmudBwCa.png?raw=true)](https://dexarea.com)
